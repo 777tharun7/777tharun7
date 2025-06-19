@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 🎓 B.Tech CSE (AI & ML) @ Manav Rachna University  
 🧠 I enjoy building cool stuff, fixing bugs, and thinking differently.
 
-◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+
 
 🚀 About Me
 
 I'm a second-year computer science student with a growing passion for solving real-world problems through code. From crafting websites to building mobile apps and experimenting with AI, I love exploring how tech can make life better (and smarter).
 
-◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+
 🛠️ What I Know (So Far)
 
 💻 Frontend
@@ -42,7 +42,7 @@ I'm a second-year computer science student with a growing passion for solving re
  ◘. Prompt Engineering
  ◘. Debugging & problem-solving
 
-◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+
 
 👨‍💻 What I Can Do
 
@@ -51,7 +51,7 @@ I'm a second-year computer science student with a growing passion for solving re
  ◘. 💬 Write prompts for AI models
  ◘. 🐞 Hunt and squash bugs
 
-◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+
 
 📫 Connect With Me
 
