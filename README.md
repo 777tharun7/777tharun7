@@ -29,27 +29,27 @@ I'm a second-year computer science student with a growing passion for solving re
 🛠️ What I Know (So Far)
 
 💻 Frontend
- ◘ 103HTML, CSS, JavaScript
- ◘ React Native
- ◘ Android basics
+ ◘.103HTML, CSS, JavaScript
+ ◘.React Native
+ ◘.Android basics
 
 🔧 Backend & Data
- ◘ Python, C language
- ◘ MySQL, SQLite
+ ◘. Python, C language
+ ◘. MySQL, SQLite
 
 ☁️ Cloud & Tools
- ◘ AWS (learning stage)
- ◘ Prompt Engineering
- ◘ Debugging & problem-solving
+ ◘. AWS (learning stage)
+ ◘. Prompt Engineering
+ ◘. Debugging & problem-solving
 
 ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
 
 👨‍💻 What I Can Do
 
- ◘ 🛠️ Build full-stack web apps
- ◘ 📱 Design mobile-friendly UIs
- ◘ 💬 Write prompts for AI models
- ◘ 🐞 Hunt and squash bugs
+ ◘. 🛠️ Build full-stack web apps
+ ◘. 📱 Design mobile-friendly UIs
+ ◘. 💬 Write prompts for AI models
+ ◘. 🐞 Hunt and squash bugs
 
 ◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
 
