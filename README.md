@@ -3,6 +3,10 @@
 <!--
 **777tharun7/777tharun7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![GitHub](https://img.shields.io/badge/GitHub-777tharun7-black)](https://github.com/777tharun7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](ADD_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](ADD_PORTFOLIO_URL)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
