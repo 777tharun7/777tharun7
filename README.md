@@ -1,70 +1,163 @@
-## Hi👋,I'm Devanaboina Tharun
-![Profile Views](https://komarev.com/ghpvc/?username=777tharun7&label=Profile%20Views&color=0e75b6&style=flat)
-<!--
-**777tharun7/777tharun7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ===================== HERO ===================== -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-777tharun7-black)](https://github.com/777tharun7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](ADD_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](ADD_PORTFOLIO_URL)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&pause=700&color=36BCF7&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Tharun+Devanaboina+%F0%9F%91%8B;I+Build+AI-Powered+Products;NLP+%7C+React+Native+%7C+Product+Engineering;Turning+Complex+Problems+Into+Scalable+Systems" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👋 Hey there, I'm Devanaboina Tharun
+<!-- ===================== SOCIALS ===================== -->
 
-🎓 B.Tech CSE (AI & ML) @ Manav Rachna University  
-🧠 I enjoy building cool stuff, fixing bugs, and thinking differently.
+<h2 align="center">🌐 Social Presence</h2>
 
+<table align="center">
+<tr>
 
+<td align="center" width="160">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" /><br>
+<b>GitHub</b>
+</a>
+</td>
 
-🚀 About Me
+<td align="center" width="160">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" /><br>
+<b>LinkedIn</b>
+</a>
+</td>
 
-I'm a second-year computer science student with a growing passion for solving real-world problems through code. From crafting websites to building mobile apps and experimenting with AI, I love exploring how tech can make life better (and smarter).
+<td align="center" width="160">
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" /><br>
+<b>Email</b>
+</a>
+</td>
 
+<td align="center" width="160">
+<a href="https://twitter.com/YOUR_X_HANDLE">
+<img src="https://skillicons.dev/icons?i=twitter" /><br>
+<b>X / Twitter</b>
+</a>
+</td>
 
-🛠️ What I Know (So Far)
+</tr>
+</table>
 
-💻 Frontend
- ◘.103HTML, CSS, JavaScript
- ◘.React Native
- ◘.Android basics
+---
 
-🔧 Backend & Data
- ◘. Python, C language
- ◘. MySQL, SQLite
+<!-- ===================== ABOUT ===================== -->
 
-☁️ Cloud & Tools
- ◘. AWS (learning stage)
- ◘. Prompt Engineering
- ◘. Debugging & problem-solving
+<h2 align="center">🧠 About Me</h2>
 
+<p align="center">
+I’m an innovation-driven engineer focused on building <b>intelligent, user-centric products</b>.<br>
+My work sits at the intersection of <b>AI, NLP, and mobile-first engineering</b>,<br>
+where I turn noisy data and vague ideas into <b>clear, scalable systems</b>.
+</p>
 
+---
 
-👨‍💻 What I Can Do
+<!-- ===================== SKILLS ===================== -->
 
- ◘. 🛠️ Build full-stack web apps
- ◘. 📱 Design mobile-friendly UIs
- ◘. 💬 Write prompts for AI models
- ◘. 🐞 Hunt and squash bugs
+<h2 align="center">🛠 Skills</h2>
 
+<table align="center">
+<tr>
 
+<td align="center" width="180">
+<b>Languages</b><br><br>
+<img src="https://skillicons.dev/icons?i=python,js,sql" />
+</td>
 
-📫 Connect With Me
+<td align="center" width="180">
+<b>Frameworks</b><br><br>
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
+</td>
 
-📧 Gmail: tharundevanaboina9@gmail.com
-📧 Outlook mail: devanboina_tharun23@manavrachna.net
-🌐 Portfolio: [Add your link here]  
-🔗 LinkedIn: www.linkedin.com/in/tharun-devanaboina-a308b2285  
-🐱 GitHub: (https://github.com/777tharun7)
+<td align="center" width="180">
+<b>AI / NLP</b><br><br>
+🧠 Natural Language Processing<br>
+🤖 Transformers<br>
+📊 Sentiment & Event Detection
+</td>
 
-◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘◘
+<td align="center" width="180">
+<b>Tools</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</td>
 
-> "I believe coding isn't just about syntax—it's about solving, building, and evolving."
+</tr>
+</table>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+
+<td width="420">
+<b>📰 Market & News Impact Analyzer</b><br>
+An industry-style NLP system that ingests news and social data to detect major events, analyze sentiment, and surface market-impact signals in real time.
+</td>
+
+<td width="420">
+<b>🐾 Petify – Shopping App</b><br>
+A clean, cross-platform React Native e-commerce app for pet products with category browsing, cart flow, and profile management.
+</td>
+
+</tr>
+
+<tr>
+
+<td width="420">
+<b>📍 Smart QR Navigation System</b><br>
+QR-based navigation solution for university campuses enabling instant location discovery and micro-routing.
+</td>
+
+<td width="420">
+<b>🧪 Innovation Prototypes</b><br>
+Rapid experiments combining AI, product thinking, and system design to validate ideas before scale.
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ===================== STATS ===================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" />
+</p>
+
+---
+
+<!-- ===================== ANIMATION ===================== -->
+
+<h2 align="center">🐍 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+<i>Build things that matter. Optimize for impact.</i>
+</p>
