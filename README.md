@@ -2,68 +2,91 @@
 
 # Hi, I'm Tharun Devanaboina 👋
 
-**AI/ML • Applied Machine Learning • Software Engineering**
+### AI/ML | Applied Machine Learning | Full-Stack Prototyping
 
-I build and experiment with data-driven applications, machine-learning workflows, and full-stack prototypes.
+I build practical projects that combine **machine learning, data-driven decision-making, and software development**. I’m especially interested in recommendation systems, model evaluation, and turning ML experiments into usable applications.
 
-[GitHub Profile](https://github.com/777tharun7) · [Repositories](https://github.com/777tharun7?tab=repositories)
+[GitHub Repositories](https://github.com/777tharun7?tab=repositories) · [E-Portfolio](https://github.com/777tharun7/Tharun-s-E-Portfolio) · [Capstone Live Demo](https://777tharun7.github.io/Capstone/)
 
 </div>
 
 ---
 
-## About
-- Interested in applied machine learning, recommendation systems, and software products.
-- Work across data preparation, model experimentation, and application development.
-- Focus on clear problem statements, reproducible setup instructions, and measurable evaluation.
+## About me
 
-## Technical areas
-- **Languages:** Python, JavaScript, SQL — list only technologies you can confidently use.
-- **Machine learning:** scikit-learn, data preprocessing, model evaluation.
-- **Application development:** React and Node.js where used in the relevant project.
-- **Tools:** Git, GitHub, VS Code.
+- 🎓 Computer Science Engineering student focused on AI/ML.
+- 🧠 Explore supervised learning, reinforcement learning, NLP, and computer vision through projects.
+- 🛠️ Interested in the full workflow: data preparation, model experimentation, evaluation, and application integration.
+- 📊 Value reproducible experiments, clear documentation, and honest reporting of results.
 
-## Featured projects
+## Technical toolkit
 
-### Reinforcement Learning-Based Adaptive Recommendation System
-An academic project exploring sequential recommendation with reinforcement-learning approaches and baseline comparisons.
+**Languages**  
+Python · JavaScript · SQL · C
 
-[View repository](https://github.com/777tharun7/Capstone)
+**Machine learning & data**  
+PyTorch · scikit-learn · NumPy · pandas · model evaluation · data preprocessing
 
-### Direct Market Access for Farmers
-A machine-learning project that groups farmer and vendor records and generates candidate matches using product, location, pricing, and reliability-related features.
+**Application development**  
+React · FastAPI · Node.js
 
-[View repository](https://github.com/777tharun7/Direct-Market-Access-for-Farmers-)
-
-### Credit Score Predictor
-A machine-learning project focused on credit-related prediction. Consult the repository for the implemented data, model, and evaluation details.
-
-[View repository](https://github.com/777tharun7/Credit-Score-Predictor)
-
-### Stock Price Predictor
-A project exploring forecasting from historical market data. Performance should be evaluated using chronological holdout data and suitable baselines.
-
-[View repository](https://github.com/777tharun7/Stock_Price_Predictor)
-
-### Spam Email Classifier
-A text-classification project focused on distinguishing spam from legitimate messages.
-
-[View repository](https://github.com/777tharun7/Spam_EMail_Classifier)
-
-### Handwritten Digit Recognizer
-A computer-vision project focused on classifying handwritten digit images.
-
-[View repository](https://github.com/777tharun7/Handwritten_Digit_Recognizer_)
-
-## Engineering principles
-- Document data sources and setup steps.
-- Keep evaluation separate from training results.
-- Use reproducible experiments and honest reporting.
-- Never publish credentials, API keys, or private user data.
-
-## Contact
-For collaboration, use GitHub's profile contact options or open a discussion in a relevant repository.
+**Developer tools**  
+Git · GitHub · VS Code
 
 ---
 
-*Project descriptions summarize repository goals. Refer to each repository for the current implementation and verified results.*
+## Featured projects
+
+### 1. Reinforcement Learning-Based Adaptive Recommendation System
+An academic full-stack project comparing collaborative filtering and reinforcement-learning approaches for sequential recommendations.
+
+- Compares baseline and RL approaches, including LinUCB, DQN, and PPO.
+- Evaluates cumulative reward, click-through rate, retention, diversity, and skip rate in a **simulated environment**.
+- Reports experimental results as simulation results—not real-user performance.
+
+**Stack:** Python, PyTorch, Gymnasium, FastAPI, React  
+[Repository](https://github.com/777tharun7/Capstone) · [Live demo](https://777tharun7.github.io/Capstone/)
+
+### 2. Direct Market Access for Farmers
+A farmer–vendor matching project using data preparation and K-Means clustering to identify potential matches.
+
+- Organizes farmer and vendor records for matching.
+- Considers product compatibility, location, pricing, and vendor-related features in the matching workflow.
+- Documents evaluation approaches without presenting unverified performance figures.
+
+**Stack:** Python, pandas, NumPy, scikit-learn  
+[Repository](https://github.com/777tharun7/Direct-Market-Access-for-Farmers-)
+
+### 3. Credit Score Predictor
+A machine-learning project focused on credit-related prediction and the handling of financial or socio-economic features.
+
+[Repository](https://github.com/777tharun7/Credit-Score-Predictor)
+
+### 4. Stock Price Predictor
+A time-series project exploring forecasting from historical stock data, with attention to chronological evaluation and suitable error metrics.
+
+[Repository](https://github.com/777tharun7/Stock_Price_Predictor)
+
+---
+
+## More projects
+
+- [Spam Email Classifier](https://github.com/777tharun7/Spam_EMail_Classifier) — text classification for spam detection.
+- [Handwritten Digit Recognizer](https://github.com/777tharun7/Handwritten_Digit_Recognizer_) — image classification for handwritten digits.
+- [E-Portfolio](https://github.com/777tharun7/Tharun-s-E-Portfolio) — portfolio application source code.
+
+## How I approach projects
+
+- Define the problem and document the data source.
+- Establish an appropriate baseline before comparing models.
+- Separate training performance from evaluation on held-out data.
+- Report limitations and distinguish simulated results from real-world outcomes.
+- Keep setup instructions clear and never commit credentials or API keys.
+
+---
+
+<div align="center">
+
+**Thanks for visiting!** ⭐ Explore the repositories to see the code, documentation, and implementation details.
+
+</div>
