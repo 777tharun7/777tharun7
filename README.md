@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=39D98A&center=true&vCenter=true&width=680&lines=Tharun+Devanaboina;AI%2FML+Engineer+in+the+Making;Full-Stack+%26+Product+Builder" alt="Animated headline: Tharun Devanaboina, AI/ML, full-stack and product building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=39D98A&center=true&vCenter=true&width=680&lines=Applied+AI%2FML+Engineering;Full-Stack+Development;Building+Practical+ML+Products" alt="Animated headline: Tharun Devanaboina, AI/ML, full-stack and product building" />
 
 # Tharun Devanaboina
 
@@ -29,7 +29,7 @@ B.Tech Computer Science student specializing in AI/ML. I build applied ML experi
 <tr><td><strong>Languages</strong></td><td>Python · JavaScript · SQL · C</td></tr>
 <tr><td><strong>ML &amp; data</strong></td><td>PyTorch · scikit-learn · pandas · NumPy · K-Means · model evaluation</td></tr>
 <tr><td><strong>Frontend</strong></td><td>React · HTML · CSS · JavaScript</td></tr>
-<tr><td><strong>Backend &amp; APIs</strong></td><td>FastAPI · Node.js · REST API concepts</td></tr>
+<tr><td><strong>Backend &amp; APIs</strong></td><td>FastAPI · Node.js · Express · REST APIs</td></tr>
 <tr><td><strong>Tools</strong></td><td>Git · GitHub · VS Code</td></tr>
 </table>
 
@@ -94,7 +94,6 @@ A hostel operations project with separate student, parent, and warden views for 
 
 | Project | Focus |
 |---|---|
-| [Credit Score Predictor](https://github.com/777tharun7/Credit-Score-Predictor) | Beneficiary/credit-related modelling and app prototype |
 | [Stock Price Predictor](https://github.com/777tharun7/Stock_Price_Predictor) | Historical time-series forecasting experiment |
 | [Spam Email Classifier](https://github.com/777tharun7/Spam_EMail_Classifier) | Text classification |
 | [Handwritten Digit Recognizer](https://github.com/777tharun7/Handwritten_Digit_Recognizer_) | CNN on MNIST; saved notebook reports 97.10% test accuracy (not independently rerun) |
