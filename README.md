@@ -97,7 +97,7 @@ A hostel operations project with separate student, parent, and warden views for 
 | [Credit Score Predictor](https://github.com/777tharun7/Credit-Score-Predictor) | Beneficiary/credit-related modelling and app prototype |
 | [Stock Price Predictor](https://github.com/777tharun7/Stock_Price_Predictor) | Historical time-series forecasting experiment |
 | [Spam Email Classifier](https://github.com/777tharun7/Spam_EMail_Classifier) | Text classification |
-| [Handwritten Digit Recognizer](https://github.com/777tharun7/Handwritten_Digit_Recognizer_) | Image classification |
+| [Handwritten Digit Recognizer](https://github.com/777tharun7/Handwritten_Digit_Recognizer_) | CNN on MNIST; saved notebook reports 97.10% test accuracy (not independently rerun) |
 | [E-Portfolio source](https://github.com/777tharun7/Tharun-s-E-Portfolio) | Portfolio UI built with a React/Vite-style project structure |
 
 ---
