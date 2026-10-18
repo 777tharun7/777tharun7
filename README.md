@@ -78,26 +78,28 @@ An educational credit-related prediction project with notebooks, a Streamlit app
 
 [Repository & notebooks](https://github.com/777tharun7/Credit-Score-Predictor)
 
-### 04 · HostelMate — Meal & Leave Management
-**Full-stack application · Role-based workflows**
+### 04 · BREKZO — Smart Campus Canteen Platform
+**Full-stack product prototype · Orders, menus, and operations**
 
-A hostel operations project with separate student, parent, and warden views for meal preferences, leave requests, notices, complaints, and payment simulation.
+A campus canteen application prototype with a React/Vite frontend, FastAPI backend, database layer, REST routes, and Socket.IO integration.
 
-- Repository contains frontend pages and a Node.js/Express backend with SQLite-related application code.
-- The README describes simulated payment and food-demand features; these should not be interpreted as verified financial transactions or real-world savings.
+- Repository includes route modules for authentication, canteens, menus, orders, wallet, offers, inventory, analytics, pickup, and reviews.
+- Local Docker Compose configuration describes frontend, backend, and PostgreSQL services.
+- Treat this as a prototype pending security hardening, database-content review, and deployment/payment verification.
 
-**Stack:** HTML · CSS · JavaScript · Node.js · Express · SQLite
+**Stack:** React · TypeScript · Vite · FastAPI · Socket.IO · PostgreSQL/SQLite
 
-[Repository & features](https://github.com/777tharun7/hostel-food-portal)
+[Source & local setup](https://github.com/777tharun7/BREKZO) · [Configured project homepage](https://brekzo.vercel.app)
 
 ### More ML projects
 
 | Project | Focus |
 |---|---|
-| [Stock Price Predictor](https://github.com/777tharun7/Stock_Price_Predictor) | Historical time-series forecasting experiment |
-| [Spam Email Classifier](https://github.com/777tharun7/Spam_EMail_Classifier) | Text classification |
+| [HostelMate — Meal & Leave Management](https://github.com/777tharun7/hostel-food-portal) | Role-based student, parent, and warden workflows; demo savings/payment figures are illustrative |
+| [Stock Price Predictor](https://github.com/777tharun7/Stock_Price_Predictor) | Historical time-series LSTM experiment |
+| [Spam Email Classifier](https://github.com/777tharun7/Spam_EMail_Classifier) | TF–IDF + Multinomial Naive Bayes; saved notebook result needs independent validation |
 | [Handwritten Digit Recognizer](https://github.com/777tharun7/Handwritten_Digit_Recognizer_) | CNN on MNIST; saved notebook reports 97.10% test accuracy (not independently rerun) |
-| [E-Portfolio source](https://github.com/777tharun7/Tharun-s-E-Portfolio) | Portfolio UI built with a React/Vite-style project structure |
+| [E-Portfolio source](https://github.com/777tharun7/Tharun-s-E-Portfolio) | React/Vite-style portfolio source |
 
 ---
 
