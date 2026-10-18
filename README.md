@@ -1,98 +1,138 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tharun+Devanaboina+%F0%9F%91%8B;AI%2FML+%7C+Applied+Machine+Learning;Building+data-driven+projects+%26+prototypes" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=39D98A&center=true&vCenter=true&width=680&lines=Tharun+Devanaboina;AI%2FML+Engineer+in+the+Making;Full-Stack+%26+Product+Builder" alt="Animated headline: Tharun Devanaboina, AI/ML, full-stack and product building" />
 
-### AI/ML | Applied Machine Learning | Full-Stack Prototyping
+# Tharun Devanaboina
 
-I build practical projects that combine **machine learning, data-driven decision-making, and software development**. I’m especially interested in recommendation systems, model evaluation, and turning ML experiments into usable applications.
+**AI/ML • Full-Stack Development • Product-Oriented Engineering**
 
-[GitHub Repositories](https://github.com/777tharun7?tab=repositories) · [E-Portfolio](https://github.com/777tharun7/Tharun-s-E-Portfolio) · [Capstone Live Demo](https://777tharun7.github.io/Capstone/)
+B.Tech Computer Science student specializing in AI/ML. I build applied ML experiments and full-stack prototypes, with a focus on transparent evaluation, reproducibility, and useful product workflows.
+
+[![Explore repositories](https://img.shields.io/badge/Explore-My_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/777tharun7?tab=repositories)
+[![E-Portfolio](https://img.shields.io/badge/E--Portfolio-39D98A?style=for-the-badge&logo=react&logoColor=101820)](https://github.com/777tharun7/Tharun-s-E-Portfolio)
+[![Capstone demo](https://img.shields.io/badge/Capstone-Live_Demo-56B6C2?style=for-the-badge&logo=githubpages&logoColor=101820)](https://777tharun7.github.io/Capstone/)
 
 </div>
 
 ---
 
-## About me
+## At a glance
 
-- 🎓 Computer Science Engineering student focused on AI/ML.
-- 🧠 Explore supervised learning, reinforcement learning, NLP, and computer vision through projects.
-- 🛠️ Interested in the full workflow: data preparation, model experimentation, evaluation, and application integration.
-- 📊 Value reproducible experiments, clear documentation, and honest reporting of results.
+- 🎓 **Focus:** Computer Science Engineering — AI/ML specialization.
+- 🧠 **Interests:** applied machine learning, recommendation systems, NLP, computer vision, and data-informed products.
+- 🧰 **Build style:** explore a problem, prepare data, compare approaches, evaluate behaviour, and document limitations.
+- 🌱 **Currently improving:** model evaluation, reproducible ML workflows, API integration, and full-stack architecture.
 
 ## Technical toolkit
 
-**Languages**  
-Python · JavaScript · SQL · C
+<table>
+<tr><td><strong>Languages</strong></td><td>Python · JavaScript · SQL · C</td></tr>
+<tr><td><strong>ML &amp; data</strong></td><td>PyTorch · scikit-learn · pandas · NumPy · K-Means · model evaluation</td></tr>
+<tr><td><strong>Frontend</strong></td><td>React · HTML · CSS · JavaScript</td></tr>
+<tr><td><strong>Backend &amp; APIs</strong></td><td>FastAPI · Node.js · REST API concepts</td></tr>
+<tr><td><strong>Tools</strong></td><td>Git · GitHub · VS Code</td></tr>
+</table>
 
-**Machine learning & data**  
-PyTorch · scikit-learn · NumPy · pandas · model evaluation · data preprocessing
-
-**Application development**  
-React · FastAPI · Node.js
-
-**Developer tools**  
-Git · GitHub · VS Code
+*Technology lists reflect tools visible in selected projects and previously stated skills; see each repository for its exact dependencies.*
 
 ---
 
-## Featured projects
+## Selected engineering work
 
-### 1. Reinforcement Learning-Based Adaptive Recommendation System
-An academic full-stack project comparing collaborative filtering and reinforcement-learning approaches for sequential recommendations.
+### 01 · Reinforcement Learning Recommendation System
+**Research-oriented ML · Full-stack prototype**
 
-- Compares baseline and RL approaches, including LinUCB, DQN, and PPO.
-- Evaluates cumulative reward, click-through rate, retention, diversity, and skip rate in a **simulated environment**.
-- Reports experimental results as simulation results—not real-user performance.
+Explores sequential recommendations as a Markov Decision Process and compares collaborative filtering, a contextual-bandit baseline (LinUCB), DQN, and PPO.
 
-**Stack:** Python, PyTorch, Gymnasium, FastAPI, React  
-[Repository](https://github.com/777tharun7/Capstone) · [Live demo](https://777tharun7.github.io/Capstone/)
+- Implements an environment, model training modules, evaluation code, API routes, and a React frontend.
+- Uses the MovieLens 100K dataset and evaluates cumulative return, session length, retention, CTR, genre diversity, and skip rate.
+- The documented metrics are **simulation results from 50 simulated user rollouts**, not real-user or production outcomes.
 
-### 2. Direct Market Access for Farmers
-A farmer–vendor matching project using data preparation and K-Means clustering to identify potential matches.
+**Stack:** Python · PyTorch · Gymnasium · FastAPI · React
 
-- Organizes farmer and vendor records for matching.
-- Considers product compatibility, location, pricing, and vendor-related features in the matching workflow.
-- Documents evaluation approaches without presenting unverified performance figures.
+[Repository & methodology](https://github.com/777tharun7/Capstone) · [Open live demo](https://777tharun7.github.io/Capstone/)
 
-**Stack:** Python, pandas, NumPy, scikit-learn  
-[Repository](https://github.com/777tharun7/Direct-Market-Access-for-Farmers-)
+### 02 · Direct Market Access for Farmers
+**Data preparation · Clustering · Candidate matching**
 
-### 3. Credit Score Predictor
-A machine-learning project focused on credit-related prediction and the handling of financial or socio-economic features.
+A farmer–vendor matching prototype using structured farmer/vendor attributes to identify potential trading partners.
 
-[Repository](https://github.com/777tharun7/Credit-Score-Predictor)
+- Cleans duplicate and incomplete records and encodes product and location fields.
+- Applies K-Means clustering to farmer and vendor feature sets, with candidate matching based on product and location attributes.
+- Recommendation-quality metrics are not yet documented; the repository identifies a future evaluation plan rather than claiming measured accuracy.
 
-### 4. Stock Price Predictor
-A time-series project exploring forecasting from historical stock data, with attention to chronological evaluation and suitable error metrics.
+**Stack:** Python · pandas · NumPy · scikit-learn · Streamlit
 
-[Repository](https://github.com/777tharun7/Stock_Price_Predictor)
+[Repository & implementation](https://github.com/777tharun7/Direct-Market-Access-for-Farmers-)
+
+### 03 · Beneficiary Credit Scoring
+**Structured-data ML · Model artifact · Interactive app**
+
+An educational credit-related prediction project with notebooks, a Streamlit application, and saved TensorFlow/Keras and TensorFlow Lite model artifacts.
+
+- Includes beneficiary-credit notebooks and application code for interactive prediction.
+- Evaluation, dataset provenance, and fairness evidence still need to be documented before interpreting it as a lending decision tool.
+- **Responsible-use note:** not a validated credit or lending decision system.
+
+**Stack:** Python · Streamlit · pandas · NumPy · scikit-learn · TensorFlow/Keras
+
+[Repository & notebooks](https://github.com/777tharun7/Credit-Score-Predictor)
+
+### 04 · HostelMate — Meal & Leave Management
+**Full-stack application · Role-based workflows**
+
+A hostel operations project with separate student, parent, and warden views for meal preferences, leave requests, notices, complaints, and payment simulation.
+
+- Repository contains frontend pages and a Node.js/Express backend with SQLite-related application code.
+- The README describes simulated payment and food-demand features; these should not be interpreted as verified financial transactions or real-world savings.
+
+**Stack:** HTML · CSS · JavaScript · Node.js · Express · SQLite
+
+[Repository & features](https://github.com/777tharun7/hostel-food-portal)
+
+### More ML projects
+
+| Project | Focus |
+|---|---|
+| [Credit Score Predictor](https://github.com/777tharun7/Credit-Score-Predictor) | Beneficiary/credit-related modelling and app prototype |
+| [Stock Price Predictor](https://github.com/777tharun7/Stock_Price_Predictor) | Historical time-series forecasting experiment |
+| [Spam Email Classifier](https://github.com/777tharun7/Spam_EMail_Classifier) | Text classification |
+| [Handwritten Digit Recognizer](https://github.com/777tharun7/Handwritten_Digit_Recognizer_) | Image classification |
+| [E-Portfolio source](https://github.com/777tharun7/Tharun-s-E-Portfolio) | Portfolio UI built with a React/Vite-style project structure |
 
 ---
 
-## More projects
-
-- [Spam Email Classifier](https://github.com/777tharun7/Spam_EMail_Classifier) — text classification for spam detection.
-- [Handwritten Digit Recognizer](https://github.com/777tharun7/Handwritten_Digit_Recognizer_) — image classification for handwritten digits.
-- [E-Portfolio](https://github.com/777tharun7/Tharun-s-E-Portfolio) — portfolio application source code.
-
-## Contribution activity
-
-The animation below is generated automatically from my GitHub contribution history.
-
-![Animated GitHub contribution snake](https://raw.githubusercontent.com/777tharun7/777tharun7/output/github-contribution-grid-snake.svg)
-
-## How I approach projects
-
-- Define the problem and document the data source.
-- Establish an appropriate baseline before comparing models.
-- Separate training performance from evaluation on held-out data.
-- Report limitations and distinguish simulated results from real-world outcomes.
-- Keep setup instructions clear and never commit credentials or API keys.
-
----
+## GitHub activity
 
 <div align="center">
 
-**Thanks for visiting!** ⭐ Explore the repositories to see the code, documentation, and implementation details.
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=777tharun7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D98A&icon_color=56B6C2&text_color=C9D1D9&rank_icon=github" alt="GitHub account activity statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=777tharun7&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D98A&text_color=C9D1D9&langs_count=6" alt="Languages detected across public GitHub repositories" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/777tharun7/777tharun7/output/github-contribution-grid-snake.svg" alt="Animated contribution graph snake; appears after the GitHub Actions workflow generates the output branch" />
+
+</div>
+
+*Stats and language cards are generated by an external service and may be temporarily unavailable or lag behind GitHub. Repository languages reflect code proportions, not skill level.*
+
+## How I approach engineering
+
+- **Reproducibility:** make the data source, environment, and steps to run a project clear.
+- **Evaluation:** compare with a reasonable baseline and separate training metrics from held-out evaluation.
+- **Responsible use:** describe simulation, synthetic data, and known limitations explicitly.
+- **Maintainability:** prefer understandable structure, clear interfaces, and safe handling of configuration and user data.
+
+## Connect
+
+- **GitHub:** [@777tharun7](https://github.com/777tharun7)
+- **Portfolio source:** [Tharun's E-Portfolio](https://github.com/777tharun7/Tharun-s-E-Portfolio)
+
+<div align="center">
+
+**Thanks for visiting — explore a project, inspect the implementation, and follow the evidence.** ✦
 
 </div>
