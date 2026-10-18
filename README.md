@@ -71,8 +71,8 @@ A farmer–vendor matching prototype using structured farmer/vendor attributes t
 An educational credit-related prediction project with notebooks, a Streamlit application, and saved TensorFlow/Keras and TensorFlow Lite model artifacts.
 
 - Includes beneficiary-credit notebooks and application code for interactive prediction.
-- Evaluation, dataset provenance, and fairness evidence still need to be documented before interpreting it as a lending decision tool.
-- **Responsible-use note:** not a validated credit or lending decision system.
+- The current app predicts from numeric inputs; its document-status selector only displays a status/warning and does not independently verify income or documents.
+- Dataset provenance, held-out evaluation, and fairness evidence still need validation; the application is not a lending decision tool.
 
 **Stack:** Python · Streamlit · pandas · NumPy · scikit-learn · TensorFlow/Keras
 
@@ -113,7 +113,11 @@ A hostel operations project with separate student, parent, and warden views for 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/777tharun7/777tharun7/output/github-contribution-grid-snake.svg" alt="Animated contribution graph snake; appears after the GitHub Actions workflow generates the output branch" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/777tharun7/777tharun7/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/777tharun7/777tharun7/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/777tharun7/777tharun7/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph snake" />
+</picture>
 
 </div>
 
