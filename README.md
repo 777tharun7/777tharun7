@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tharun Devanaboina 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tharun+Devanaboina+%F0%9F%91%8B;AI%2FML+%7C+Applied+Machine+Learning;Building+data-driven+projects+%26+prototypes" alt="Animated typing introduction" />
 
 ### AI/ML | Applied Machine Learning | Full-Stack Prototyping
 
@@ -74,6 +74,12 @@ A time-series project exploring forecasting from historical stock data, with att
 - [Spam Email Classifier](https://github.com/777tharun7/Spam_EMail_Classifier) — text classification for spam detection.
 - [Handwritten Digit Recognizer](https://github.com/777tharun7/Handwritten_Digit_Recognizer_) — image classification for handwritten digits.
 - [E-Portfolio](https://github.com/777tharun7/Tharun-s-E-Portfolio) — portfolio application source code.
+
+## Contribution activity
+
+The animation below is generated automatically from my GitHub contribution history.
+
+![Animated GitHub contribution snake](https://raw.githubusercontent.com/777tharun7/777tharun7/output/github-contribution-grid-snake.svg)
 
 ## How I approach projects
 
